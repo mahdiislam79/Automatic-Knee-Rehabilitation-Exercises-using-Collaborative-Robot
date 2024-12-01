@@ -1,1 +1,1 @@
-# Automatic-Knee-Rehabilitation-Exercises-using-Collaborative-Robot
+# Automatic Knee Rehabilitation Exercises using Collaborative Robot
